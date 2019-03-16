@@ -31,16 +31,33 @@ h1{
 h2{
   font-size: 40px;
   font-weight: bolder;
+  font-style: italic;
 }
 h3{
   font-size:40px;
   font-weight: bolder;
+  font-style: italic;
 }
 h4{
   font-size: 40px;
   font-weight: bolder;
+  font-style: italic;
 }
 h5{
   font-size: 40px;
   font-weight: bolder;
+  font-style:
+}
+.hobbies{
+  color: yellow;
+  font-weight: bold;
+}
+.contact{
+  color: red;
+  font-weight: bold;
+}
+h6{
+  font-size: 40px;
+  font-weight: bolder;
+  font-style: italic;
 }
