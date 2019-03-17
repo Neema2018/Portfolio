@@ -61,3 +61,7 @@ h6{
   font-weight: bolder;
   font-style: italic;
 }
+.link{
+  color:orange;
+  font-weight: 600;
+}
